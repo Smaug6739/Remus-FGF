@@ -1,0 +1,10 @@
+# node_module
+node_modules
+archives
+beta
+# credentials
+#credentials.js
+# log
+package-lock.json
+#*.log
+#*.lock
