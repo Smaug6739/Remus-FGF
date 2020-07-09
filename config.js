@@ -14,10 +14,10 @@ module.exports = {
     rankcard : "https://french-gaming-family.fr/public/rank.png"
   },
   modmail :{
-    ROLEADMIN :'708500587020550184',
-    CATEGORIE : '708500655538438184',
-    CHANNELLOGS : '730846736041639947',
-    SERVEUR : '708499830456057857'
+    ROLEADMIN :'503135942152945675',
+    CATEGORIE : '708845839342370887',
+    CHANNELLOGS : '708845839585640539',
+    SERVEUR : '502528973012467723'
   },
   emojis:{
     TRUE : '<:succes:727590572059132104>',
