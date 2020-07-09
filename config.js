@@ -2,7 +2,8 @@ module.exports = {
   PREFIX: "!",
  
   DBCONNECTION: "mongodb://localhost:27017/spiritusfgf",
-  TOKEN : "NzMwODA3NzMyOTAyNTU5ODA0.Xwc35A.YgujFACbRQRYtcM9MtqFDq4m1JM",
+  //TOKEN : "NzMwODA3NzMyOTAyNTU5ODA0.Xwc35A.YgujFACbRQRYtcM9MtqFDq4m1JM",
+  TOKEN : 'Njg5MjExODk5NzIzNjQ0OTI4.XwdX_Q.ctxwllegW3F7vkm6wAGn1REe4cQ',
     owner: {
       id: "611468402263064577",
       username: "Smaug#6739"
@@ -11,6 +12,12 @@ module.exports = {
   DEFAULTSETTINGS: {
     prefix: "!",
     rankcard : "https://french-gaming-family.fr/public/rank.png"
+  },
+  modmail :{
+    ROLEADMIN :'708500587020550184',
+    CATEGORIE : '708500655538438184',
+    CHANNELLOGS : '730846736041639947',
+    SERVEUR : '708499830456057857'
   },
   emojis:{
     TRUE : '<:succes:727590572059132104>',
