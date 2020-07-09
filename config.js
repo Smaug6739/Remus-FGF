@@ -2,8 +2,8 @@ module.exports = {
   PREFIX: "!",
   STATUS : 'MP moi pour de l\'aide !',
   DBCONNECTION: "mongodb://localhost:27017/spiritusfgf",
-  //TOKEN : "NzMwODA3NzMyOTAyNTU5ODA0.Xwc35A.YgujFACbRQRYtcM9MtqFDq4m1JM",
-  TOKEN : 'Njg5MjExODk5NzIzNjQ0OTI4.XwdX_Q.ctxwllegW3F7vkm6wAGn1REe4cQ',
+  TOKEN : "NzMwODA3NzMyOTAyNTU5ODA0.Xwc35A.YgujFACbRQRYtcM9MtqFDq4m1JM",
+  //TOKEN : 'Njg5MjExODk5NzIzNjQ0OTI4.XwdX_Q.ctxwllegW3F7vkm6wAGn1REe4cQ',
     owner: {
       id: "611468402263064577",
       username: "Smaug#6739"
