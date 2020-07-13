@@ -48,16 +48,6 @@ module.exports.run = async (client, message, args, settings) => {
            
             break;
         }
-
-        default : {
-            const config = new MessageEmbed()
-            .setTitle(`Commande config`)
-            .setColor(client.config.color.EMBEDCOLOR)
-            .setDescription(`**Module :** Admin\n**Description :** Permet de configurer le bot sur votre serveur.\n**Usage :** [action] (valeur)\n**Exemples :** \n ${settings.prefix}config prefix // \n ${settings.prefix}config serveurstats`)
-            .setFooter('BOT ID : 689210215488684044')
-            .setTimestamp()
-            message.channel.send(config)
-        }
     }
 };
 module.exports.help = {
