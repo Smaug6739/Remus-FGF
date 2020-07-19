@@ -1,4 +1,4 @@
-![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734318158642544650/spiritus_banniere.png)
+![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734322261284225044/7c058dcddd11233ef507f074ff1e5ac539c1ac93da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255.png)
 
 # Spiritus-FGF
 
