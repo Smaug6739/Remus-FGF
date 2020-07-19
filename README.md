@@ -1,4 +1,4 @@
-# ![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734323461794824274/spiritus_baniere_mini.png)
+# ![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734323656590884864/spiritus_baniere_mini.png)
 
 
 Le bot Spiritus est un bot multi-tâches qui est spécialisé dans le management d'un serveur. En effet nombreuses sont ses fonctions qui visent à faire gagner du temps et faciliter les tâches de maintenance d'un serveur. Créé, supprimer, mettre à jour émois, salons, rôles, réaction-rôles est extrêmement simple !
