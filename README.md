@@ -1,6 +1,5 @@
-![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734322261284225044/7c058dcddd11233ef507f074ff1e5ac539c1ac93da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255.png)
+# ![bannière](https://cdn.discordapp.com/attachments/734318123510923324/734322261284225044/7c058dcddd11233ef507f074ff1e5ac539c1ac93da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255.png)
 
-# Spiritus-FGF
 
 Le bot Spiritus est un bot multi-tâches qui est spécialisé dans le management d'un serveur. En effet nombreuses sont ses fonctions qui visent à faire gagner du temps et faciliter les tâches de maintenance d'un serveur. Créé, supprimer, mettre à jour émois, salons, rôles, réaction-rôles est extrêmement simple !
 
