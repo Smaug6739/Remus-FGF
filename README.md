@@ -25,3 +25,5 @@ un système de leveling entièrement personnalisable ! Des fonctions pour s'ajou
 Un module de rôle réaction complet et illimité. Choisissez le message, l'émoji, rôle et Spiritus s'occupe du reste !
 
 Appropriez vous Spiritus en choisissant vos commandes personnalisées pour adapter au mieux le bot à votre serveur.
+
+# ![spiritus](https://cdn.discordapp.com/attachments/734318123510923324/734318158642544650/spiritus_banniere.png)
