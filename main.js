@@ -1,6 +1,6 @@
 const { Client, Collection,WebhookClient } = require('discord.js');
 const { loadCommands, loadEvents } = require("./util/loader");
-const client = new Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });;
+const client = new Client({ intents: ['GUILDS','GUILD_MESSAGES','GUILD_MEMBERS','GUILD_EMOJIS','GUILD_WEBHOOKS','GUILD_PRESENCES','GUILD_MESSAGE_REACTIONS'] },{ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });;
 require('./util/functions')(client);
 client.mongoose = require("./util/mongoose");
 ["commands", "cooldowns"].forEach(x => client[x] = new Collection());
