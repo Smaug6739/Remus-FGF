@@ -11,7 +11,7 @@ const loadCommands = (client, dir = "./commands") => {
     };
   });
 };
-// You don't need vérification her. 
+
 const loadEvents = (client, dir = "./events") => {
   readdirSync(dir).forEach(dirs => {
     const events = readdirSync(`${dir}/${dirs}/`).filter(files => files.endsWith(".js"));
