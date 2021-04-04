@@ -1,4 +1,4 @@
-const { Guild } = require("../../models/index");
+//const { Guild } = require("../../models/index");
 const {MessageEmbed, WebhookClient} = require('discord.js')
 module.exports =async client => {
     console.log(`Logged in as ${client.user.tag}!`);

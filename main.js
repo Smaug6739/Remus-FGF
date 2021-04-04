@@ -15,7 +15,7 @@ process.on('uncaughtException', (error) => {
     if (!client) return;
     client.errorHook.send(error, {code: 'js'});
   });
-  process.on('unhandledRejection', (listener, test) => {
+  process.on('unhandledRejection', (listener) => {
     console.warn(listener);
     if (!client) return;
     client.errorHook.send(listener, {code: 'js'});
