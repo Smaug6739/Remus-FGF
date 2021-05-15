@@ -22,7 +22,7 @@ Avec Spiritus a vos coté gardez un serveur agréable, les commandes de ban, kic
 
 Un système de leveling entièrement personnalisable ! Des fonctions pour s'ajouter de l'exp en faisant des mini-jeux ou en faisant des paris. Choisissez votre rank-card et personnalisez-la !
 
-Un module de rôle réaction complet et illimité. Choisissez le message, l'émoji, rôle et Spiritus s'occupe du reste !
+Un module de rôle réaction complet et illimité. Choisissez le message, l'émoji, rôle et Spiritus s'occupe du reste!
 
 Appropriez vous Spiritus en choisissant vos commandes personnalisées pour adapter au mieux le bot à votre serveur.
 
